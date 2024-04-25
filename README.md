@@ -1,9 +1,12 @@
 
-##Evidencia de instalacion Laragon
+## Evidencia de instalacion Laragon
+<br>
 
 ![](https://github.com/DevFajardo/apicul/blob/main/laragon.png)
 
-
+<br>
+<br>
+<br>
 
 
 <p align="center">
